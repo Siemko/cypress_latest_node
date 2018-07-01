@@ -1,4 +1,4 @@
-FROM node:carbon-alpine
+FROM node:latest
 
 ENV npm_config_loglevel=warn
 
